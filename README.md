@@ -1,8 +1,8 @@
 # Ubuntu Touch Adaptation Tree for Daria Bond 5G
-Device Codename: zahedan 
-Device Manufacturer: Daria
-Chipset: Mediatek Dimensity 7050 (MT6877) 
-Based on: Halium 12
+   Device Codename: zahedan    
+   Device Manufacturer: Daria
+   Chipset: Mediatek Dimensity 7050 (MT6877) 
+   Based on: Halium 12
 
 ## How To Build:
 #### Setup Build Environment:
