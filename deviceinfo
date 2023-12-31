@@ -11,7 +11,7 @@ deviceinfo_kernel_cmdline="bootconfig loop.max_part=7 bootopt=64S3,32N2,64N2 bui
 deviceinfo_kernel_clang_compile="true"
 deviceinfo_kernel_llvm_compile="true"
 deviceinfo_kernel_use_lld="false"
-deviceinfo_kernel_image_name="Image.lz4"
+deviceinfo_kernel_image_name="Image.gz"
 deviceinfo_flash_pagesize="2048"
 deviceinfo_flash_offset_base="0x40078000"
 deviceinfo_flash_offset_kernel="0x00008000"
